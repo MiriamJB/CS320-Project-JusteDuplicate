@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-justetest-dev-fb4db-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730335528058:role/amplify-justetest-dev-fb4db-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730335528058:role/amplify-justetest-dev-fb4db-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-justetest-dev-fb4db-deployment",
+      "UnauthRoleName": "amplify-justetest-dev-fb4db-unauthRole",
+      "StackName": "amplify-justetest-dev-fb4db",
+      "StackId": "arn:aws:cloudformation:ap-south-1:730335528058:stack/amplify-justetest-dev-fb4db/5467c790-d395-11ef-af41-06eda1cf0565",
+      "AmplifyAppId": "d1k201neturort"
+    }
+  }
+}
